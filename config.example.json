@@ -1,0 +1,10 @@
+{
+  "debug": false,
+  "database": {
+    "username": "",
+    "password": "",
+    "host": "",
+    "port": 3306,
+    "db": ""
+  }
+}
